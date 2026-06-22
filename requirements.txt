@@ -1,4 +1,4 @@
-
+openai
 langgraph==1.0.3
 langchain==1.1.0
 langchain-core==1.1.0
